@@ -5,7 +5,7 @@ I built this learning platform ui in flutter. [Design Credit](https://dribbble.c
 ## Screenshot
 
 <div style="display:inline-block">
-<img src="screenshots/one.png" width="400px">
+<img style="margin-right:20px" src="screenshots/one.png" width="400px">
 <img src="screenshots/two.png" width="400px">
 </div>
 
